@@ -25,7 +25,7 @@ Sylhet IT Shop is a dynamic web-based e-commerce platform designed to simulate r
 ### **5. Responsive Design**
 - Optimized for both desktop and mobile devices with a clean, user-friendly interface.
 
-### **5. Real-Time Features**
+### **6. Real-Time Features**
 - Dynamic updates for orders and transactions using AJAX.
 - Notifications for payment and inventory updates.
 
